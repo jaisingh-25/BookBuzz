@@ -1,5 +1,6 @@
 # 📚 BookBuzz – Book Review & Feedback Web Application
-BookBuzz is an online platform designed to streamline book reviews and feedback. It allows publishers to upload book reviews, while readers can rate and provide feedback. Based on these reviews, publishers can make informed decisions about book promotions and future publications. Users can also explore new book releases in various genres, including fiction, science, and technology.
+BookBuzz is an online platform designed to streamline book reviews and feedback. It allows publishers to upload book reviews, while readers can rate and provide feedback. Based on these reviews, publishers can make informed decisions about book promotions and future publications. 
+Users can also explore new book releases in various genres, including fiction, science, and technology.
 
 ## 🚀 Features
 ✅ User Reviews & Ratings – Readers can provide feedback and rate book reviews.
